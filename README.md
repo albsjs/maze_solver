@@ -21,7 +21,7 @@ python install github.com/albsjs/maze_solver
 zipzod -i ./input -o ./output.zip
 ```
 ## Usage
-This is where you'll want to show off more of the advanced features of your project. Think of this as the larger reference manual, or the comprehensive technical documentation. For example:
+
 
 ## 📖 Usage
 
